@@ -1,0 +1,7 @@
+C:\Users\carva\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\carva\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\carva\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\carva\source\repos\Calculadora\Calculadora\obj\Debug\CalculadoraPintura.csprojAssemblyReference.cache
+C:\Users\carva\source\repos\Calculadora\Calculadora\obj\Debug\CalculadoraPintura.csproj.CoreCompileInputs.cache
+C:\Users\carva\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\carva\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
